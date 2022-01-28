@@ -130,10 +130,28 @@ footer{
     padding: 40px 0;
 }
 aside{
-height: 60px;
+height: 40px;
 background-color: #1078AD;
 border-radius: 20px 20px 0px  0px;
 }
+
+/*ERREUR 404*/
+.img-erreur{
+    margin: 40px 0px;
+}
+.title-erreur-404{
+    font-size: 1.75rem;
+    color: #1078AD;
+}
+.retourner-erreur-404{
+    background-color:#1078AD;
+    color:#fff;
+    font-weight:bolder;
+    padding: 10px 50px;
+    border-radius: 4px;
+    font-size: 1.4rem;
+}
+
 /* stting standard styles for elements */
 
 h1 {
